@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "worldpainter-mcp"
+version = "0.3.0"
+description = "Safe MCP bridge for analysing and editing WorldPainter projects"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.11"
+dependencies = [
+  "mcp>=1.20,<2",
+  "numpy>=2.0",
+  "Pillow>=11",
+]
+
+[project.urls]
+Repository = "https://github.com/ikunkk02-afk/worldpainter-mcp"
+Issues = "https://github.com/ikunkk02-afk/worldpainter-mcp/issues"
+
+[project.scripts]
+worldpainter-mcp = "worldpainter_mcp.__main__:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/worldpainter_mcp"]

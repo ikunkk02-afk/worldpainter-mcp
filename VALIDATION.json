@@ -1,0 +1,363 @@
+{
+  "date": "2026-10-03",
+  "tool_version": "0.3.0",
+  "worldpainter": "2.27.1",
+  "java": "22.0.2",
+  "python": "3.14",
+  "fresh_install": true,
+  "doctor": true,
+  "offline_tests": true,
+  "real_stdio_mcp_integration": true,
+  "compiled_preview_tamper_rejected": true,
+  "fixture_audit": {
+    "width": 128,
+    "height": 128,
+    "min_height": -64,
+    "max_height": 320,
+    "cells": 16384,
+    "height_mismatches": 0,
+    "water_mismatches": 0,
+    "frost_cells": 0,
+    "terrain_counts": {
+      "Bare Grass": 8192,
+      "Grass": 8192
+    },
+    "biome_counts": {
+      "1": 8192,
+      "46": 8192
+    },
+    "plants": [
+      {
+        "name": "Test Native Grass",
+        "plants": [
+          "Short Grass",
+          "Dandelion"
+        ],
+        "only_valid_blocks": true,
+        "generate_farmland": false,
+        "painted": 3222,
+        "underwater": 0,
+        "on_rock": 0
+      }
+    ],
+    "samples": [
+      {
+        "x": 0,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 12,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 14,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 15,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 16,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 19,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 20,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 24,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 25,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 27,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 29,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 32,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 33,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 35,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 36,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 38,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 41,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 43,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 45,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 47,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 54,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 56,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 57,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 59,
+        "y": 0,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 8,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 11,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 12,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 16,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 19,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 21,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 23,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 28,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 32,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      },
+      {
+        "x": 35,
+        "y": 1,
+        "height": 72.9375,
+        "layer": "Test Native Grass"
+      }
+    ]
+  },
+  "vagar_audit": {
+    "width": 8192,
+    "height": 8192,
+    "min_height": -64,
+    "max_height": 320,
+    "cells": 67108864,
+    "height_mismatches": 0,
+    "water_mismatches": 0,
+    "frost_cells": 0,
+    "terrain_counts": {
+      "Gravel": 56096304,
+      "Basalt": 304704,
+      "Bare Grass": 9367806,
+      "Andesite": 1325932,
+      "Sand": 14118
+    },
+    "biome_counts": {
+      "1": 6588075,
+      "3": 4410367,
+      "25": 50926,
+      "46": 34271446,
+      "49": 21788050
+    },
+    "plants": [
+      {
+        "name": "Vagar | Exposed upland grass",
+        "plants": [
+          "Short Grass",
+          "Fern"
+        ],
+        "only_valid_blocks": true,
+        "generate_farmland": false,
+        "painted": 444690,
+        "underwater": 0,
+        "on_rock": 0
+      },
+      {
+        "name": "Vagar | Lowland grass and wildflowers",
+        "plants": [
+          "Short Grass",
+          "Tall Grass",
+          "Fern",
+          "Dandelion",
+          "Oxeye Daisy"
+        ],
+        "only_valid_blocks": true,
+        "generate_farmland": false,
+        "painted": 2238913,
+        "underwater": 0,
+        "on_rock": 0
+      }
+    ]
+  },
+  "installed_package_test": true,
+  "water_integration": {
+    "cells": 16384,
+    "water_cells": 490,
+    "target_mismatches": 0,
+    "outside_height_changes": 0,
+    "outside_water_changes": 0,
+    "outside_terrain_changes": 0,
+    "outside_biome_changes": 0,
+    "plants_in_water": 0,
+    "plants_changed_outside": 0
+  },
+  "vagar_water_audit": {
+    "cells": 67108864,
+    "water_cells": 556837,
+    "target_mismatches": 0,
+    "outside_height_changes": 0,
+    "outside_water_changes": 0,
+    "outside_terrain_changes": 0,
+    "outside_biome_changes": 0,
+    "plants_in_water": 0,
+    "plants_changed_outside": 0
+  },
+  "water_preview_tamper_rejected": true
+}

@@ -1,0 +1,9 @@
+[mcp_servers.worldpainter]
+command = "C:\\ABSOLUTE\\PATH\\TO\\PROJECT\\.venv\\Scripts\\python.exe"
+args = ["-m", "worldpainter_mcp"]
+cwd = "C:\\ABSOLUTE\\PATH\\TO\\PROJECT"
+startup_timeout_sec = 30
+tool_timeout_sec = 900
+
+[mcp_servers.worldpainter.env]
+WPSCRIPT_PATH = "D:\\WorldPainter\\wpscript.exe"

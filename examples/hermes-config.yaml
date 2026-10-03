@@ -1,0 +1,10 @@
+mcp_servers:
+  worldpainter:
+    command: 'C:\ABSOLUTE\PATH\TO\PROJECT\.venv\Scripts\python.exe'
+    args: ["-m", "worldpainter_mcp"]
+    env:
+      WPSCRIPT_PATH: 'D:\WorldPainter\wpscript.exe'
+    enabled: true
+    timeout: 900
+    connect_timeout: 60
+    supports_parallel_tool_calls: false
