@@ -1,5 +1,9 @@
 # WorldPainter MCP 0.3.0 — Windows 本地地形、植被与水域工具
 
+<p align="center">
+  <img src="assets/worldpainter-mcp-icon.png" width="256" alt="WorldPainter MCP 图标：方块山地、湖泊河流与三个连接节点">
+</p>
+
 通过 MCP 读取已保存的 `.world` 工程，生成润色计划、预览，再调用 WorldPainter 自带的 `wpscript.exe` 保存新副本。
 它操作工程文件。要在 WorldPainter 窗口里看到修改，需要打开新副本；未保存的窗口状态无法读取。
 
